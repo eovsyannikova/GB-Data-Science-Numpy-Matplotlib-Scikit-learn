@@ -1,1 +1,1 @@
-# eovsyannikova-GB-Data-Science-Numpy-Matplotlib-Scikit-learn
+GB-Data-Science-Numpy-Matplotlib-Scikit-learn
